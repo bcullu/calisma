@@ -1,1 +1,2 @@
 # calisma
+denemeler yapmca
